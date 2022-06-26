@@ -34,6 +34,23 @@ php artisan key:generate
 php artisan migrate
 php artisan db:seed
 ```
+
+## Application Feature
+
+```
+● Ability to login to create and edit blogs.
+● Ability to view the blogs on the frontend
+● Ability for guests to comment on blogs
+● Ability to see which user added which blog
+● Ability to add new users
+● WYSIWYG editor
+● Ability to import blogs using scheduled RSS import and CSV upload
+● Code to be stored in Github repository.
+● Regular commits to Github so the client can see the buildup and progress of the
+system.
+● Clean, commented, easily readable code.
+```
+
 ## Created By 
 
 - [John](jonosemeke@gmail.com)
